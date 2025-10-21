@@ -26,6 +26,14 @@ function App() {
           </li>
         </ol>
       </footer>
+      <main>
+        <section>
+          <img src="" alt="" />
+          <h1>Lorem, ipsum dolor.</h1>
+          <p>Lorem, ipsum dolor.</p>
+          <i>Lorem ipsum dolor sit.</i>
+        </section>
+      </main>
     </>
   );
 }
