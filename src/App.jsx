@@ -9,6 +9,23 @@ function App() {
         voluptas debitis veniam reiciendis inventore at explicabo optio autem
         voluptates porro.
       </h1>
+      <footer>
+        <h1>logo</h1>
+        <ol>
+          <li>
+            <a href="#">hello</a>
+          </li>
+          <li>
+            <li>
+              <a href="#">hello</a>
+            </li>
+            <li>
+              <a href="#">hello</a>
+            </li>
+            <a href="#">hello</a>
+          </li>
+        </ol>
+      </footer>
     </>
   );
 }
